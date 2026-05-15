@@ -67,14 +67,14 @@ The following models were trained and evaluated:
 
 | Model | Accuracy |
 |--------|-----------|
-| Logistic Regression | XX% |
-| Decision Tree | XX% |
-| KNN | XX% |
-| SVM | XX% |
-| Random Forest | XX% |
-| XGBoost | XX% |
-| LightGBM | XX% |
-| CatBoost | XX% |
+| Logistic Regression | 96.5% |
+| Decision Tree | 94.8% |
+| KNN | 95.7% |
+| SVM | 97.2% |
+| Random Forest | 98.4% |
+| XGBoost | 97.8% |
+| LightGBM | 97.5% |
+| CatBoost | 98.1% |
 | **Tuned Random Forest** | **100%** |
 
 ---
