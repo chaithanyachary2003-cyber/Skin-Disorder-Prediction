@@ -129,4 +129,4 @@ This project demonstrates how Machine Learning can effectively assist in predict
 
 **V.A. Venkata Sai Chaithanya**  
 LinkedIn: (www.linkedin.com/in/chaithanya-chary-9b4914378)  
-GitHub: (www.linkedin.com/in/chaithanya-chary-9b4914378)
+GitHub: (https://github.com/chaithanyachary2003-cyber)
